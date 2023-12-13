@@ -1,0 +1,32 @@
+15
+A B C D E F G H I J K L M N O
+5
+Red Green Blue Yellow Purple
+A B
+A C
+A D
+A E
+B F
+B G
+C H
+C I
+D J
+D K
+E L
+E M
+F N
+F O
+G H
+G I
+H J
+H K
+I L
+I M
+J N
+J O
+K L
+K M
+L N
+M O
+both
+

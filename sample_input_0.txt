@@ -1,0 +1,9 @@
+4
+a b c d
+3
+red green blue
+a b
+a c
+d b
+b c
+both

@@ -1,0 +1,20 @@
+10
+A B C D E F G H I J
+4
+Red Green Blue Yellow
+A B
+A C
+A D
+B E
+B F
+C G
+C H
+D I
+D J
+E F
+F G
+G H
+H I
+I J
+J E
+both
